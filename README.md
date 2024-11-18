@@ -1,4 +1,4 @@
-# Calcusettlement: long-term settlement calculation software for soft clay foundations considering different creep effects
+# Calcusettlement: Long-term settlement calculation software for soft clay foundations, accounting for varying creep effects and loading frequencies
 
 I developed this software using MATLAB in 2018, under the supervision of Professor Dongsheng Xu.
 
