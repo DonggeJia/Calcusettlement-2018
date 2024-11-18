@@ -1,0 +1,198 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration file="G:\新建文件夹 (5)\start.prj" location="G:\新建文件夹 (5)" name="start" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>start</param.appname>
+    <param.icon />
+    <param.icons />
+    <param.version>1.0</param.version>
+    <param.authnamewatermark />
+    <param.email />
+    <param.company />
+    <param.summary />
+    <param.description />
+    <param.screenshot />
+    <param.guid />
+    <param.installpath.string>\start\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo />
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\start\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\start\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\start\for_redistribution</param.output>
+    <param.logdir>${PROJECT_ROOT}\start</param.logdir>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.embed.ctf>true</param.embed.ctf>
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
+      <param.summary />
+      <param.description />
+      <param.screenshot />
+      <param.guid />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.logo />
+      <param.target.install.notes />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.logdir />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.embed.ctf />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.create.log />
+      <param.log.file />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\start.m</file>
+    </fileset.main>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\axes3 (1).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (10).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (11).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (12).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (13).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (14).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (15).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (16).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (17).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (18).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (19).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (2).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (20).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (21).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (22).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (23).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (24).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (25).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (26).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (3).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (4).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (5).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (6).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (7).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (8).jpg</file>
+      <file>${PROJECT_ROOT}\axes3 (9).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (1).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (10).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (11).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (12).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (13).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (14).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (15).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (16).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (17).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (18).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (19).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (2).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (20).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (21).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (22).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (23).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (24).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (25).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (26).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (3).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (4).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (5).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (6).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (7).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (8).jpg</file>
+      <file>${PROJECT_ROOT}\axes3_ (9).jpg</file>
+      <file>${PROJECT_ROOT}\doublelayers_attribute.fig</file>
+      <file>${PROJECT_ROOT}\doublelayers_attribute.m</file>
+      <file>${PROJECT_ROOT}\doublelayers_calculate.fig</file>
+      <file>${PROJECT_ROOT}\doublelayers_calculate.m</file>
+      <file>${PROJECT_ROOT}\help.txt</file>
+      <file>${PROJECT_ROOT}\onelayer_attribute.fig</file>
+      <file>${PROJECT_ROOT}\onelayer_attribute.m</file>
+      <file>${PROJECT_ROOT}\onelayer_calculate.fig</file>
+      <file>${PROJECT_ROOT}\onelayer_calculate.m</file>
+      <file>${PROJECT_ROOT}\period_attribute.fig</file>
+      <file>${PROJECT_ROOT}\period_attribute.m</file>
+      <file>${PROJECT_ROOT}\period_calculate.fig</file>
+      <file>${PROJECT_ROOT}\period_calculate.m</file>
+      <file>${PROJECT_ROOT}\start.fig</file>
+      <file>${PROJECT_ROOT}\start.jpg</file>
+      <file>${PROJECT_ROOT}\双土层结构2.png</file>
+      <file>${PROJECT_ROOT}\排水情况.jpg</file>
+    </fileset.resources>
+    <fileset.package />
+    <fileset.depfun />
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\start\for_testing" name="splash.png" optional="false">G:\新建文件夹 (5)\start\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\start\for_testing" name="readme.txt" optional="true">G:\新建文件夹 (5)\start\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\start\for_testing" name="start.exe" optional="false">G:\新建文件夹 (5)\start\for_testing\start.exe</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2016a</root>
+      <toolboxes>
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabcoder" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="embeddedcoder" />
+      </toolboxes>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.2</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
