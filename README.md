@@ -1,6 +1,6 @@
 # Calcusettlement: long-term settlement calculation software for soft clay foundations considering different creep effects
 
-I developed this software in MATLAB in 2018 during my undergraduate studies under the supervision of Professor Dongsheng Xu.
+I developed this software using MATLAB in 2018, under the supervision of Professor Dongsheng Xu.
 
 At the time, I created two versions of the program: **Calcusettlement v1.0** and **Calcusettlement v2.0**. These programs perform detailed settlement calculations, drawings, image editing, and support image and data exporting.
 
@@ -8,7 +8,7 @@ At the time, I created two versions of the program: **Calcusettlement v1.0** and
 This version features a single interface. Its package contains one MATLAB script, `Calcusettlement.m`, which can be executed in MATLAB.
 
 <p align="center">
-    <img src="Images/v1.0.png" width="550"/>
+    <img src="Images/v1.0.png"/>
 </p>
 
 ## Calcusettlement v2.0
